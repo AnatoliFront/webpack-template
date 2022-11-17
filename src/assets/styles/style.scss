@@ -1,0 +1,16 @@
+@import './utils/vars';
+@import './utils/fonts';
+
+h1 {
+    font-family: SourceSansPro;
+    font-size: 50px;
+    color: $orange
+}
+
+.main {
+    .text {
+        color: forestgreen;
+        font-size: 34px;
+    }
+    background-image: url('../images/home/image.jpg');
+}
